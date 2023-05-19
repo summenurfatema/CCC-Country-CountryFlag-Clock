@@ -1,0 +1,16 @@
+@keyframes glowing {
+    0% {
+      text-shadow: 0 0 5px #fb9847;
+    }
+    50% {
+      text-shadow: 0 0 9px #FCE047;
+    }
+    100% {
+      text-shadow: 0 0 5px #FCE047;
+    }
+  }
+  
+  .glow {
+    animation: glowing 2s infinite;
+    color: #FCE047;
+  }
