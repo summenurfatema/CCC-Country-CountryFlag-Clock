@@ -1,6 +1,6 @@
 
 # CCC-"Country-CountryFlag-Clock" 
-## By go through this link, visitorsn can see their current location, time and their country flag. Wanna try?
+## By going through this link, visitors can see their current location, time, and their country flag. Please enable your location if it asks to enable it, if it won't, then do it manually. Wanna try?
 
 # https://client-ccc.vercel.app/
 
